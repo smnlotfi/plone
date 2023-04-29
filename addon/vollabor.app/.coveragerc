@@ -1,0 +1,6 @@
+[report]
+include =
+    src/vollabor/*
+omit =
+    */test*
+    */upgrades/*
